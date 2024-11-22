@@ -1,0 +1,9 @@
+com.challenge.cityBankChallenge
+com.challenge.cityBankChallenge.controller
+com.challenge.cityBankChallenge.dto
+com.challenge.cityBankChallenge.exception
+com.challenge.cityBankChallenge.mapper
+com.challenge.cityBankChallenge.model
+com.challenge.cityBankChallenge.repository
+com.challenge.cityBankChallenge.security
+com.challenge.cityBankChallenge.service
